@@ -1,3 +1,3 @@
 # Gallery
 
-Random image generator with pure JS
+Simple slideshow with pure JS
